@@ -46,7 +46,7 @@
 
 The repository includes `app.json`, `Procfile`, `heroku.yml` and `Dockerfile` for deployment. Review the configuration before deploying.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WCGKING/BrandrdXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishu007vn/BrandrdXMusic)
 
 **Never commit your bot token, session strings or database URI to GitHub.** Set secrets through your hosting provider's environment-variable settings.
 
